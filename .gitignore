@@ -58,3 +58,24 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Crysis2020/ProjectSettings/
+Crysis2020/Packages/manifest.json
+Crysis2020/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+Crysis2020/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache
+Crysis2020/obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+Crysis2020/obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+Crysis2020/obj/Debug/LeanCommon.csprojAssemblyReference.cache
+Crysis2020/obj/Debug/LeanLocalization.csprojAssemblyReference.cache
+Crysis2020/obj/Debug/NavMeshComponents.csprojAssemblyReference.cache
+Crysis2020/obj/Debug/NavMeshComponentsEditor.csprojAssemblyReference.cache
+Crysis2020/obj/Debug/NavMeshComponentsExamples.csprojAssemblyReference.cache
+Crysis2020/obj/Debug/NavMeshComponentsExamplesEditor.csprojAssemblyReference.cache
+Crysis2020/obj/Debug/NavMeshComponentsTestsPlaymode.csprojAssemblyReference.cache
+Crysis2020/Logs/
+Crysis2020/Library/
+Crysis2020/Build/AlienInvaders_1_01_1.aab
+Crysis2020/Build/AlienInvaders_1_01_2.aab
+Crysis2020/Build/AlienInvaders_1_01_3.aab
+Crysis2020/Build/AlienInvaders_1_01_4.aab
+Crysis2020/Build/AlienInvaders_1_01_5.aab
+Crysis2020/Build/arch/coronacrysis2020.rar
